@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+.homePageButton{
+  margin-top: 50px;
+  padding: 70px 70px;
+  background:url(./images/plus.svg);
+  background-repeat: no-repeat;
+  border: none;
+}
+#title{
+  font-size: 70px;
+}
+.select{
+  padding:10px 50px
+}
+@media (min-width: 800px){
+  .roomHead{
+  margin-left:240px;
+  }
+}
